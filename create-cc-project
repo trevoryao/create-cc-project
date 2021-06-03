@@ -110,7 +110,7 @@ mkdir $project_path/$src
 
 cat > $project_path/README.md << EOM
 # $project_name
-This is your project description.
+This project was created with [create-cc-project](https://github.com/trevoryao/create-cc-project)
 
 ## Compiling
 Use 'make' to compile and link your project. The rules for make are found in Makefile.
