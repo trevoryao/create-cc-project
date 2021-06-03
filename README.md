@@ -20,12 +20,12 @@ may have to be used.
 create-cc-project [options] <project-name>
 
 options:
-  -h | --help				          Help Screen
-  -d | --directory			      Directory to create project root in (defaults to current dir)
-  -c | --compiler <arg>		    C++ Compiler [g++, clang++, etc...]
-  -s | --std <arg>			      C++ std (defaults to C++14)
-  -e | --ext <arg>			      C++ file extension (defaults to .cc)
-  -b | --bin <arg>			      name of file to store binary files in (defaults to bin)
-  -s | --src <arg>			      name of file to store source files in (defaults to src)
-  -u | --remote-url <arg>	    git remote url (optional, will initialise empty repo)
+  -h | --help				Help Screen
+  -d | --directory			Directory to create project root in (defaults to current dir)
+  -c | --compiler <arg>		C++ Compiler [g++, clang++, etc...]
+  -s | --std <arg>			C++ std (defaults to C++14)
+  -e | --ext <arg>			C++ file extension (defaults to .cc)
+  -b | --bin <arg>			name of file to store binary files in (defaults to bin)
+  -s | --src <arg>			name of file to store source files in (defaults to src)
+  -u | --remote-url <arg>	git remote url (optional, will initialise empty repo)
 ```
