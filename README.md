@@ -4,7 +4,7 @@ which I made accessible for beginners. It behaves similar to `npm-create-react` 
 react projects.
 
 This will create a C++ Project template in the given directory with root 'project-name',
-with a Makefile & .gitignore, and the binary and source files as given in the arguments.
+with a `Makefile` & `.gitignore`, and the binary and source files as given in the arguments.
 It will also initialise git repo if git is installed
 
 ## Installation
