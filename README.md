@@ -10,7 +10,7 @@ It will also initialise git repo if git is installed
 ## Installation
 You can install the tool using `curl`.
 ```
-curl ${create-cc-project raw url} -o $HOME/bin
+curl https://raw.githubusercontent.com/trevoryao/create-cc-project/master/create-cc-project -o $HOME/bin
 ```
 `wget` can also be used. If installing on a virtual machine or container, the `-k` flag 
 may have to be used.
